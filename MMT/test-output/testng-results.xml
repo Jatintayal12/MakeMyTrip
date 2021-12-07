@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" ignored="0" total="12" passed="11">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="343509" started-at="2021-12-07T08:37:11 IST" finished-at="2021-12-07T08:42:55 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="343509" started-at="2021-12-07T08:37:11 IST" finished-at="2021-12-07T08:42:55 IST">
+      <class name="com.testcases.Hotel_SearchTest">
+        <test-method status="PASS" signature="reportSetup()[pri:0, instance:com.testcases.Hotel_SearchTest@133e16fd]" name="reportSetup" is-config="true" duration-ms="1" started-at="2021-12-07T08:37:12 IST" finished-at="2021-12-07T08:37:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportSetup -->
+        <test-method status="PASS" signature="setup1()[pri:0, instance:com.testcases.Hotel_SearchTest@133e16fd]" name="setup1" is-config="true" duration-ms="10843" started-at="2021-12-07T08:37:12 IST" finished-at="2021-12-07T08:37:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup1 -->
+        <test-method status="PASS" signature="validatesearchhotelTest()[pri:1, instance:com.testcases.Hotel_SearchTest@133e16fd]" name="validatesearchhotelTest" duration-ms="17061" started-at="2021-12-07T08:37:23 IST" finished-at="2021-12-07T08:37:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatesearchhotelTest -->
+        <test-method status="PASS" signature="closesetup()[pri:0, instance:com.testcases.Hotel_SearchTest@133e16fd]" name="closesetup" is-config="true" duration-ms="3893" started-at="2021-12-07T08:37:40 IST" finished-at="2021-12-07T08:37:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closesetup -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testcases.Hotel_SearchTest@133e16fd]" name="tearDown" is-config="true" duration-ms="0" started-at="2021-12-07T08:37:44 IST" finished-at="2021-12-07T08:37:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup1()[pri:0, instance:com.testcases.Hotel_SearchTest@133e16fd]" name="setup1" is-config="true" duration-ms="7150" started-at="2021-12-07T08:37:44 IST" finished-at="2021-12-07T08:37:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup1 -->
+        <test-method status="PASS" signature="hotelselectionTest()[pri:2, instance:com.testcases.Hotel_SearchTest@133e16fd]" name="hotelselectionTest" duration-ms="26165" started-at="2021-12-07T08:37:51 IST" finished-at="2021-12-07T08:38:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hotelselectionTest -->
+        <test-method status="PASS" signature="closesetup()[pri:0, instance:com.testcases.Hotel_SearchTest@133e16fd]" name="closesetup" is-config="true" duration-ms="4454" started-at="2021-12-07T08:38:17 IST" finished-at="2021-12-07T08:38:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closesetup -->
+        <test-method status="PASS" signature="setup1()[pri:0, instance:com.testcases.Hotel_SearchTest@133e16fd]" name="setup1" is-config="true" duration-ms="6879" started-at="2021-12-07T08:38:21 IST" finished-at="2021-12-07T08:38:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup1 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testcases.Hotel_SearchTest@133e16fd]" name="tearDown" is-config="true" duration-ms="0" started-at="2021-12-07T08:38:21 IST" finished-at="2021-12-07T08:38:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="hotelbookTest()[pri:3, instance:com.testcases.Hotel_SearchTest@133e16fd]" name="hotelbookTest" duration-ms="34370" started-at="2021-12-07T08:38:28 IST" finished-at="2021-12-07T08:39:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hotelbookTest -->
+        <test-method status="PASS" signature="closesetup()[pri:0, instance:com.testcases.Hotel_SearchTest@133e16fd]" name="closesetup" is-config="true" duration-ms="4075" started-at="2021-12-07T08:39:03 IST" finished-at="2021-12-07T08:39:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closesetup -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testcases.Hotel_SearchTest@133e16fd]" name="tearDown" is-config="true" duration-ms="0" started-at="2021-12-07T08:39:07 IST" finished-at="2021-12-07T08:39:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup1()[pri:0, instance:com.testcases.Hotel_SearchTest@133e16fd]" name="setup1" is-config="true" duration-ms="7473" started-at="2021-12-07T08:39:07 IST" finished-at="2021-12-07T08:39:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup1 -->
+        <test-method status="PASS" signature="invalidfirstnameTest()[pri:4, instance:com.testcases.Hotel_SearchTest@133e16fd]" name="invalidfirstnameTest" duration-ms="31803" started-at="2021-12-07T08:39:14 IST" finished-at="2021-12-07T08:39:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidfirstnameTest -->
+        <test-method status="PASS" signature="closesetup()[pri:0, instance:com.testcases.Hotel_SearchTest@133e16fd]" name="closesetup" is-config="true" duration-ms="3942" started-at="2021-12-07T08:39:46 IST" finished-at="2021-12-07T08:39:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closesetup -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testcases.Hotel_SearchTest@133e16fd]" name="tearDown" is-config="true" duration-ms="0" started-at="2021-12-07T08:39:50 IST" finished-at="2021-12-07T08:39:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup1()[pri:0, instance:com.testcases.Hotel_SearchTest@133e16fd]" name="setup1" is-config="true" duration-ms="7730" started-at="2021-12-07T08:39:50 IST" finished-at="2021-12-07T08:39:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup1 -->
+        <test-method status="PASS" signature="invalidlastnameTest()[pri:5, instance:com.testcases.Hotel_SearchTest@133e16fd]" name="invalidlastnameTest" duration-ms="31151" started-at="2021-12-07T08:39:58 IST" finished-at="2021-12-07T08:40:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidlastnameTest -->
+        <test-method status="PASS" signature="closesetup()[pri:0, instance:com.testcases.Hotel_SearchTest@133e16fd]" name="closesetup" is-config="true" duration-ms="3949" started-at="2021-12-07T08:40:29 IST" finished-at="2021-12-07T08:40:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closesetup -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testcases.Hotel_SearchTest@133e16fd]" name="tearDown" is-config="true" duration-ms="1" started-at="2021-12-07T08:40:33 IST" finished-at="2021-12-07T08:40:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup1()[pri:0, instance:com.testcases.Hotel_SearchTest@133e16fd]" name="setup1" is-config="true" duration-ms="8015" started-at="2021-12-07T08:40:33 IST" finished-at="2021-12-07T08:40:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup1 -->
+        <test-method status="PASS" signature="invalidmailTest()[pri:6, instance:com.testcases.Hotel_SearchTest@133e16fd]" name="invalidmailTest" duration-ms="39527" started-at="2021-12-07T08:40:41 IST" finished-at="2021-12-07T08:41:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidmailTest -->
+        <test-method status="PASS" signature="closesetup()[pri:0, instance:com.testcases.Hotel_SearchTest@133e16fd]" name="closesetup" is-config="true" duration-ms="4047" started-at="2021-12-07T08:41:20 IST" finished-at="2021-12-07T08:41:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closesetup -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testcases.Hotel_SearchTest@133e16fd]" name="tearDown" is-config="true" duration-ms="0" started-at="2021-12-07T08:41:24 IST" finished-at="2021-12-07T08:41:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="generateReport()[pri:0, instance:com.testcases.Hotel_SearchTest@133e16fd]" name="generateReport" is-config="true" duration-ms="67" started-at="2021-12-07T08:42:55 IST" finished-at="2021-12-07T08:42:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateReport -->
+      </class> <!-- com.testcases.Hotel_SearchTest -->
+      <class name="com.testcases.FlightTestPage">
+        <test-method status="PASS" signature="reportSetup()[pri:0, instance:com.testcases.FlightTestPage@de3a06f]" name="reportSetup" is-config="true" duration-ms="407" started-at="2021-12-07T08:37:11 IST" finished-at="2021-12-07T08:37:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportSetup -->
+        <test-method status="PASS" signature="setup1()[pri:0, instance:com.testcases.FlightTestPage@de3a06f]" name="setup1" is-config="true" duration-ms="7178" started-at="2021-12-07T08:42:39 IST" finished-at="2021-12-07T08:42:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup1 -->
+        <test-method status="FAIL" signature="validatingFlightBookingTest()[pri:2, instance:com.testcases.FlightTestPage@de3a06f]" name="validatingFlightBookingTest" duration-ms="7190" started-at="2021-12-07T08:42:46 IST" finished-at="2021-12-07T08:42:53 IST">
+          <exception class="org.openqa.selenium.ElementClickInterceptedException">
+            <message>
+              <![CDATA[element click intercepted: Element <span class="lbl_input latoBold  appendBottom5">...</span> is not clickable at point (170, 233). Other element would receive the click: <div data-cy="outsideModal" class=" modal displayBlock modalLogin dynHeight personal ">...</div>
+  (Session info: chrome=96.0.4664.45)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-VJ143UQ', ip: '192.168.1.9', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_311'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\DELL\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:55198}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c1e0b7f924063d5cd61a864a400ccff9]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <span class="lbl_input latoBold  appendBottom5">...</span> is not clickable at point (170, 233). Other element would receive the click: <div data-cy="outsideModal" class=" modal displayBlock modalLogin dynHeight personal ">...</div>
+  (Session info: chrome=96.0.4664.45)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-VJ143UQ', ip: '192.168.1.9', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_311'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 96.0.4664.45, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\DELL\AppData\Local...}, goog:chromeOptions: {debuggerAddress: localhost:55198}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c1e0b7f924063d5cd61a864a400ccff9
+at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+at java.lang.reflect.Constructor.newInstance(Unknown Source)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+at sun.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+at com.sun.proxy.$Proxy11.click(Unknown Source)
+at com.pages.FlightPage.validateFlightBooking(FlightPage.java:104)
+at com.testcases.FlightTestPage.validatingFlightBookingTest(FlightTestPage.java:36)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.util.ArrayList.forEach(Unknown Source)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.ElementClickInterceptedException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatingFlightBookingTest -->
+        <test-method status="PASS" signature="closesetup()[pri:0, instance:com.testcases.FlightTestPage@de3a06f]" name="closesetup" is-config="true" duration-ms="1018" started-at="2021-12-07T08:42:53 IST" finished-at="2021-12-07T08:42:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closesetup -->
+        <test-method status="PASS" signature="generateReport()[pri:0, instance:com.testcases.FlightTestPage@de3a06f]" name="generateReport" is-config="true" duration-ms="634" started-at="2021-12-07T08:42:54 IST" finished-at="2021-12-07T08:42:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateReport -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testcases.FlightTestPage@de3a06f]" name="tearDown" is-config="true" duration-ms="0" started-at="2021-12-07T08:42:54 IST" finished-at="2021-12-07T08:42:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testcases.FlightTestPage -->
+      <class name="com.testcases.LoginTestPage">
+        <test-method status="PASS" signature="reportSetup()[pri:0, instance:com.testcases.LoginTestPage@17695df3]" name="reportSetup" is-config="true" duration-ms="1" started-at="2021-12-07T08:37:12 IST" finished-at="2021-12-07T08:37:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportSetup -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testcases.LoginTestPage@17695df3]" name="setup" is-config="true" duration-ms="7480" started-at="2021-12-07T08:41:24 IST" finished-at="2021-12-07T08:41:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="validateTitleTest()[pri:1, instance:com.testcases.LoginTestPage@17695df3]" name="validateTitleTest" duration-ms="12" started-at="2021-12-07T08:41:32 IST" finished-at="2021-12-07T08:41:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTitleTest -->
+        <test-method status="PASS" signature="closesetup()[pri:0, instance:com.testcases.LoginTestPage@17695df3]" name="closesetup" is-config="true" duration-ms="3867" started-at="2021-12-07T08:41:32 IST" finished-at="2021-12-07T08:41:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closesetup -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testcases.LoginTestPage@17695df3]" name="setup" is-config="true" duration-ms="7421" started-at="2021-12-07T08:41:36 IST" finished-at="2021-12-07T08:41:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testcases.LoginTestPage@17695df3]" name="tearDown" is-config="true" duration-ms="0" started-at="2021-12-07T08:41:36 IST" finished-at="2021-12-07T08:41:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="validateLoginTest()[pri:2, instance:com.testcases.LoginTestPage@17695df3]" name="validateLoginTest" duration-ms="6984" started-at="2021-12-07T08:41:43 IST" finished-at="2021-12-07T08:41:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginTest -->
+        <test-method status="PASS" signature="closesetup()[pri:0, instance:com.testcases.LoginTestPage@17695df3]" name="closesetup" is-config="true" duration-ms="3866" started-at="2021-12-07T08:41:50 IST" finished-at="2021-12-07T08:41:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closesetup -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testcases.LoginTestPage@17695df3]" name="tearDown" is-config="true" duration-ms="1" started-at="2021-12-07T08:41:54 IST" finished-at="2021-12-07T08:41:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testcases.LoginTestPage@17695df3]" name="setup" is-config="true" duration-ms="7431" started-at="2021-12-07T08:41:54 IST" finished-at="2021-12-07T08:42:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="validateLogin2Test()[pri:3, instance:com.testcases.LoginTestPage@17695df3]" name="validateLogin2Test" duration-ms="3572" started-at="2021-12-07T08:42:01 IST" finished-at="2021-12-07T08:42:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLogin2Test -->
+        <test-method status="PASS" signature="closesetup()[pri:0, instance:com.testcases.LoginTestPage@17695df3]" name="closesetup" is-config="true" duration-ms="4097" started-at="2021-12-07T08:42:05 IST" finished-at="2021-12-07T08:42:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closesetup -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testcases.LoginTestPage@17695df3]" name="tearDown" is-config="true" duration-ms="1" started-at="2021-12-07T08:42:09 IST" finished-at="2021-12-07T08:42:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testcases.LoginTestPage@17695df3]" name="setup" is-config="true" duration-ms="8266" started-at="2021-12-07T08:42:09 IST" finished-at="2021-12-07T08:42:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="validatelogin3()[pri:4, instance:com.testcases.LoginTestPage@17695df3]" name="validatelogin3" duration-ms="3365" started-at="2021-12-07T08:42:17 IST" finished-at="2021-12-07T08:42:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatelogin3 -->
+        <test-method status="PASS" signature="closesetup()[pri:0, instance:com.testcases.LoginTestPage@17695df3]" name="closesetup" is-config="true" duration-ms="3866" started-at="2021-12-07T08:42:21 IST" finished-at="2021-12-07T08:42:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closesetup -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testcases.LoginTestPage@17695df3]" name="setup" is-config="true" duration-ms="7868" started-at="2021-12-07T08:42:25 IST" finished-at="2021-12-07T08:42:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testcases.LoginTestPage@17695df3]" name="tearDown" is-config="true" duration-ms="0" started-at="2021-12-07T08:42:25 IST" finished-at="2021-12-07T08:42:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="validatelogin4()[pri:5, instance:com.testcases.LoginTestPage@17695df3]" name="validatelogin4" duration-ms="2360" started-at="2021-12-07T08:42:32 IST" finished-at="2021-12-07T08:42:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatelogin4 -->
+        <test-method status="PASS" signature="closesetup()[pri:0, instance:com.testcases.LoginTestPage@17695df3]" name="closesetup" is-config="true" duration-ms="3906" started-at="2021-12-07T08:42:35 IST" finished-at="2021-12-07T08:42:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closesetup -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testcases.LoginTestPage@17695df3]" name="tearDown" is-config="true" duration-ms="1" started-at="2021-12-07T08:42:39 IST" finished-at="2021-12-07T08:42:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="generateReport()[pri:0, instance:com.testcases.LoginTestPage@17695df3]" name="generateReport" is-config="true" duration-ms="32" started-at="2021-12-07T08:42:55 IST" finished-at="2021-12-07T08:42:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateReport -->
+      </class> <!-- com.testcases.LoginTestPage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
